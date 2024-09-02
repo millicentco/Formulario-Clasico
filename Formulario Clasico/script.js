@@ -118,5 +118,10 @@ function validacion(){
 	
 	//cuando hemos validado todo, enviamos el formulario
 	general.submit();
-	
+	//////
+/////////////////////
+///////////////
+///////////
+	////////////
+	///////////
 }
